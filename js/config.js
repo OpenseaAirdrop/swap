@@ -8,4 +8,4 @@ const solidityNode = new HttpProvider(api);
 const eventServer = new HttpProvider(api);
 const tongdaoAddress = "TXjvm9x2B3PYDz29ja2yhXVnD1NvGhAGyQ";
 const rate = 0.99;
-const max = 5000;
+const max = 1000;
